@@ -2,7 +2,7 @@
   "name": "express-navbar",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "sever.js",
   "scripts": {
     "test": "echo \"Error: no testing specified\" && exit 1",
     "start": "node server.js",
