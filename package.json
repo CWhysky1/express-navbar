@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "build": "echo 'this is build'"
@@ -11,6 +12,12 @@
   "engines": {
     "node" : ">=16"
   },
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "build": "echo 'this is build'"
+  },
+>>>>>>> 248e2a13a40d9400d2d146c0acf8d9ebe89349cf
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CWhysky1/express-navbar.git"
