@@ -1,0 +1,28 @@
+{
+  "name": "express-navbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build": "echo 'this is build'"
+  },
+  "engines": {
+    "node" : ">=16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CWhysky1/express-navbar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CWhysky1/express-navbar/issues"
+  },
+  "homepage": "https://github.com/CWhysky1/express-navbar#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
