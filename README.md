@@ -8,5 +8,5 @@ The three assigments are:
     Four Algorithms.
     
 Server listens on port 3000.
-To start server type node server.js on terminal
+To start server type node server.js on terminal.
 This Node/Express app is deploy on Glitch with instructions set in script of package.json.
